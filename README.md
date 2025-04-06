@@ -26,11 +26,8 @@ cpp 65
 python 50
 Sample Output
 
-================================
-java           100 
-cpp            065 
-python         050 
-================================
+https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
+
 Explanation
 
 Each String is left-justified with trailing whitespace through the first  characters. The leading digit of the integer is the  character, and each integer that was less than  digits now has leading zeroes.
